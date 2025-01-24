@@ -147,6 +147,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav {
+  display:none;
   padding-top: 30px;
   padding-bottom: 30px;
   position: absolute;
